@@ -1,3 +1,4 @@
+future
 netCDF4
 numpy
 cfunits
